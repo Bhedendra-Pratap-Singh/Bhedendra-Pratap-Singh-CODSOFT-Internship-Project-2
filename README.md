@@ -1,2 +1,1 @@
-# Bhedendra-Pratap-Singh-CODSOFT-Internship-Project-2
-MY PORTFOLIO
+This is My Portfolio which is created by using HTML and CSS.
